@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="etknlk3imagejLabel" linkSize="6" min="-2" pref="36" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jScrollPane3" linkSize="8" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="etknlk2imagejLabel" linkSize="6" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="jScrollPane2" linkSize="8" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="etknlk1imagejLabel" min="-2" pref="95" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" attributes="0">
+                                              <Component id="anasayfajLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="iletisimjLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="hakkimizdajLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="etkinlikjLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="ekibimizjLabel" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Component id="destekcilerimizjLabel" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="jScrollPane1" linkSize="8" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="27" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="logojLabel" min="-2" pref="105" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="66" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="logojLabel" linkSize="4" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="29" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" alignment="1" groupAlignment="3" attributes="0">
+                      <Component id="anasayfajLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="iletisimjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="hakkimizdajLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="etkinlikjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="ekibimizjLabel" alignment="3" min="-2" pref="13" max="-2" attributes="0"/>
+                      <Component id="destekcilerimizjLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="etknlk1imagejLabel" linkSize="4" min="-2" pref="91" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" linkSize="4" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="etknlk2imagejLabel" linkSize="4" min="-2" pref="84" max="-2" attributes="0"/>
+                  <Component id="jScrollPane2" linkSize="4" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="etknlk3imagejLabel" linkSize="4" min="-2" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" linkSize="4" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="anasayfajLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Anasayfa"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="anasayfajLabelMouseClicked"/>
+        <EventHandler event="keyPressed" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="anasayfajLabelKeyPressed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="iletisimjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x130;leti&#x15f;im"/>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="iletisimjLabelMouseClicked"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hakkimizdajLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Hakk&#x131;m&#x131;zda"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="etkinlikjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Etkinlik"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="ekibimizjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ekiibimiz"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="destekcilerimizjLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Destek&#xe7;ilerimiz"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Giri&#x15f; "/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="etknlk1imagejLabel">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="cc" green="cc" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="jLabel9"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="etknlk2imagejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel11"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="etknlk3imagejLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel13"/>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane1">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f0" green="f0" red="f0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xf6;nemli olaylar&#x131;n listesini yaparlar. Listede yer alan olaylar aras&#x131;ndan baz&#x131;lar&#x131; se&#xe7;ilerek&#xa; zaman &#xe7;izelgesine yerle&#x15f;tirilir. Her olay ait oldu&#x11f;u d&#xf6;neme yaz&#x131;larak resimlenir ve k&#xa;&#xe2;&#x11f;&#x131;tlar birle&#x15f;tirilerek s&#x131;n&#x131;f duvar&#x131;na as&#x131;l&#x131;r. Her &#xf6;&#x11f;renci, se&#xe7;ti&#x11f;i bir d&#xf6;nemde ya&#x15f;ayan g&#xa;er&#xe7;ek veya hayal&#xee; bir &#x15f;ahs&#x131;n yerine ge&#xe7;erek hik&#xe2;yesini anlat&#x131;r. &#xd6;rne&#x11f;in, bir &#xf6;&#x11f;renci val&#xa;iyi temsil ediyorsa o d&#xf6;nemde ya&#x15f;anan bir olay&#x131;"/>
+            <Property name="autoscrolls" type="boolean" value="false"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane2">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f0" green="f0" red="f0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xf6;nemli olaylar&#x131;n listesini yaparlar. Listede yer alan olaylar aras&#x131;ndan baz&#x131;lar&#x131; se&#xe7;ilerek&#xa; zaman &#xe7;izelgesine yerle&#x15f;tirilir. Her olay ait oldu&#x11f;u d&#xf6;neme yaz&#x131;larak resimlenir ve k&#xa;&#xe2;&#x11f;&#x131;tlar birle&#x15f;tirilerek s&#x131;n&#x131;f duvar&#x131;na as&#x131;l&#x131;r. Her &#xf6;&#x11f;renci, se&#xe7;ti&#x11f;i bir d&#xf6;nemde ya&#x15f;ayan g&#xa;er&#xe7;ek veya hayal&#xee; bir &#x15f;ahs&#x131;n yerine ge&#xe7;erek hik&#xe2;yesini anlat&#x131;r. &#xd6;rne&#x11f;in, bir &#xf6;&#x11f;renci val&#xa;iyi temsil ediyorsa o d&#xf6;nemde ya&#x15f;anan bir olay&#x131;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextPane" name="jTextPane3">
+          <Properties>
+            <Property name="editable" type="boolean" value="false"/>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="f0" green="f0" red="f0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xf6;nemli olaylar&#x131;n listesini yaparlar. Listede yer alan olaylar aras&#x131;ndan baz&#x131;lar&#x131; se&#xe7;ilerek&#xa; zaman &#xe7;izelgesine yerle&#x15f;tirilir. Her olay ait oldu&#x11f;u d&#xf6;neme yaz&#x131;larak resimlenir ve k&#xa;&#xe2;&#x11f;&#x131;tlar birle&#x15f;tirilerek s&#x131;n&#x131;f duvar&#x131;na as&#x131;l&#x131;r. Her &#xf6;&#x11f;renci, se&#xe7;ti&#x11f;i bir d&#xf6;nemde ya&#x15f;ayan g&#xa;er&#xe7;ek veya hayal&#xee; bir &#x15f;ahs&#x131;n yerine ge&#xe7;erek hik&#xe2;yesini anlat&#x131;r. &#xd6;rne&#x11f;in, bir &#xf6;&#x11f;renci val&#xa;iyi temsil ediyorsa o d&#xf6;nemde ya&#x15f;anan bir olay&#x131;"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="logojLabel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="jLabel1"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
